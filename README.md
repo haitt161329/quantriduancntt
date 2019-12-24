@@ -3,5 +3,3 @@
 ## Sửa file trong docs
 
 ## edit releases folder
-
-##Group 12
